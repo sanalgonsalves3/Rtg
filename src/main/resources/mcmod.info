@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "rtgclient",
+    "name": "RTG Client",
+    "description": "A lightweight, modern Minecraft 1.8.9 client focused on performance, customization, and cosmetics",
+    "version": "1.0.0",
+    "mcversion": "1.8.9",
+    "url": "https://github.com/sanalgonsalves3/Rtg",
+    "updateUrl": "",
+    "authorList": ["sanalgonsalves3"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

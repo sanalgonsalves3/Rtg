@@ -1,0 +1,29 @@
+# Forge
+bin/
+run/
+gradle/
+gradle-app.properties
+
+# IDE
+.classpath
+.project
+.settings/
+.gradle/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+dist/
+*.jar
+*.exe
+
+# Config
+RTGClient/
+config.json
